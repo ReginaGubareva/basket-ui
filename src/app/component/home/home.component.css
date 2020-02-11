@@ -1,0 +1,19 @@
+.home-body{
+  color:white;
+  padding: 20px;
+  width: 100%;
+  min-height: 100vh;
+  background: url('src/assets/images/pic3.jpg') no-repeat fixed right top;
+}
+
+h1{
+  color:#CC465E;
+  margin-top: 300px;
+  margin-left: 140px;
+  font-size: 120px;
+  font-family: 'Nunito', sans-serif;
+}
+
+
+
+
